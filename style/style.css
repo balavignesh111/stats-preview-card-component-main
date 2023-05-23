@@ -108,7 +108,7 @@ body{
 
 /* mobile responsive for desktop 1440px */
 
-@media screen and (min-width:1330px) {
+@media screen and (min-width:1440px) {
   .container{
     width: 50rem;
     height: 20.7rem;
